@@ -1,0 +1,30 @@
+.bodys {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #ecabab;
+  color: #333;
+}
+
+.titlecolor {
+  border-bottom: 3px solid #c9a227;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+  color: #c9a227;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+button {
+  transition: 0.3s;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
+
+footer {
+  margin-top: 50px;
+  border-top: 10px solid gray;
+}
